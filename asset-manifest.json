@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/chrono-react/static/css/main.e7659c30.chunk.css",
+    "main.js": "/chrono-react/static/js/main.b1ce1252.chunk.js",
+    "main.js.map": "/chrono-react/static/js/main.b1ce1252.chunk.js.map",
+    "runtime-main.js": "/chrono-react/static/js/runtime-main.1f1c4546.js",
+    "runtime-main.js.map": "/chrono-react/static/js/runtime-main.1f1c4546.js.map",
+    "static/js/2.9eeff0a3.chunk.js": "/chrono-react/static/js/2.9eeff0a3.chunk.js",
+    "static/js/2.9eeff0a3.chunk.js.map": "/chrono-react/static/js/2.9eeff0a3.chunk.js.map",
+    "index.html": "/chrono-react/index.html",
+    "static/css/main.e7659c30.chunk.css.map": "/chrono-react/static/css/main.e7659c30.chunk.css.map",
+    "static/js/2.9eeff0a3.chunk.js.LICENSE.txt": "/chrono-react/static/js/2.9eeff0a3.chunk.js.LICENSE.txt",
+    "static/media/pause.f8c47a1a.svg": "/chrono-react/static/media/pause.f8c47a1a.svg",
+    "static/media/play.b23df41a.svg": "/chrono-react/static/media/play.b23df41a.svg",
+    "static/media/reset.adefad1d.svg": "/chrono-react/static/media/reset.adefad1d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f1c4546.js",
+    "static/js/2.9eeff0a3.chunk.js",
+    "static/css/main.e7659c30.chunk.css",
+    "static/js/main.b1ce1252.chunk.js"
+  ]
+}
